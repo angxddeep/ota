@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1782832427",
+      "filename": "PixelOS_spes-16.2-20260630-1517.zip",
+      "id": "4A5CA8932A257803BA9BB410CE556D0CD00FC6F1CEAF256DEB0D8D31B24BF586",
+      "romtype": "OFFICIAL",
+      "size": 2213304441,
+      "url": "https://pixelos-spes-worker.angxddeep.workers.dev/PixelOS_spes-16.2-20260630-1517.zip",
+      "version": 16.2
+    }
+  ]
+}
